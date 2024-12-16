@@ -19,17 +19,17 @@ I designed this tiny application for your interview to be **flawed by design**. 
 - Others are **security vulnerabilities**.  
 
 The **technical interview** will be based on this codebase. I want you to walk me through the issues you found in a **structured way** and provide suggestions for **alternative, better implementations**.  
-It is not a strict requirement to fix all issues before or during the interview, but I want to see if you can **identify, understand, and communicate** some of these flaws, which are commonly found in problematic codebases.  
+It is not a strict requirement to fix **all** the issues before or during the interview, but I want to see if you can **identify, understand, and communicate** some of the most impactfull flaws, which are commonly found in problematic codebases and explain the code you see to me.
 
-The interview will focus on a **code review** of the original code in this repository.  
+The interview will focus on your **code review** of the original code in this repository.  
 I want you to:
-- Prepare a walkthrough of the code and the issues you identified.
-- Suggest solutions to address these issues.  
+- Prepare a structured walkthrough of the original code and the issues you identified.
+- Suggest solutions to address these issues. If it suits the issue, you may show alternative code.
 
 ### **Tips for presenting your findings:**
-- **Avoid reading directly from a script.** Instead, imagine explaining the issues to someone outside of development who is curious about the topic.  
-- Focus on communicating your findings and proposed solutions in a **clear and structured** manner.  
-- You are free to choose the format for your presentation.
+- **Avoid reading directly from a script. It will not help your application.** Instead, imagine explaining the issues to someone outside of development who is curious about the topic.  
+- Focus on communicating your findings and proposed solutions in a **clear and structured** manner.
+- You are free to choose the format for your presentation and how you show me that you know what you are doing.
 
 ---
 
@@ -44,6 +44,8 @@ Here are some hints to help you get started:
    - **Efficiency**  
    - *(Can you think of other categories?)* 😉  
 3. Document the identified issues and your notes in detail to prepare for your walkthrough during the interview.
+
+Hint: Don't ask me for the password ;)
 
 ---
 
